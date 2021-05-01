@@ -5,4 +5,5 @@
     <string name="gagner">Vous avez gagner! Voulez-vous recommencer?</string>
     <string name="plus">C\'est plus!</string>
     <string name="moins">C\'est moins!</string>
+    <string name="reset">Recommencer</string>
 </resources>
