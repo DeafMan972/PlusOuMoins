@@ -6,4 +6,5 @@
     <string name="plus">C\'est plus!</string>
     <string name="moins">C\'est moins!</string>
     <string name="reset">Recommencer</string>
+    <string name="mauvaise_valeur">Ce n\'est pas la bonne valeur.</string>
 </resources>
